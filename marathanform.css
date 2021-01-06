@@ -1,0 +1,14 @@
+h1 {
+Color: black;
+padding: 1%;
+text-transform: uppercase;
+margin: center;
+border: 10px;
+}
+form {
+  padding: 2%;
+}
+button {
+  color: red;
+}
+
